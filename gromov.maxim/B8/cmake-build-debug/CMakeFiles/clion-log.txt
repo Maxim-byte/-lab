@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/gvgromov/spbspu-labs-2020-904-4/gromov.maxim/B8 Select CMakeLists.txt
